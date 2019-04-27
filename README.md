@@ -1,2 +1,2 @@
 # hello-world
-my little practise for githu
+my little practise for github
